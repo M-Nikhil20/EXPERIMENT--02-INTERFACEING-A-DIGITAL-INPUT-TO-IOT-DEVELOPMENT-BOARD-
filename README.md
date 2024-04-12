@@ -119,13 +119,11 @@ void IRPAIR()
 
 ## Output  :
 ## WITH OBJECT
-<img src="https://private-user-images.githubusercontent.com/118708024/321847651-2cffd870-e272-4b7e-b1db-befcf41f86cb.jpg)" width=500 height=500
+![iot](https://github.com/M-Nikhil20/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118707852/323d606e-1b65-4f87-87ac-e06ba245428d)
 
 ## WITHOUT OBJECT
+![iot2](https://github.com/M-Nikhil20/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118707852/e3ca50b1-7a54-42da-85e0-58e0cb75a9ec)
 
-<img src="https://github.com/R-Udayakumar/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118708024/4bfd01d9-9694-47f3-9a25-3595bd032e9d)" width=500 height=500>
 
-
- 
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
