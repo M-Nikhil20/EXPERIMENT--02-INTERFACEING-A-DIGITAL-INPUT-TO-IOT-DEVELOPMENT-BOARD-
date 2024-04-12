@@ -119,7 +119,7 @@ void IRPAIR()
 
 ## Output  :
 ## WITH OBJECT
-<img src="https://github.com/R-Udayakumar/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/118708024/1ef8072b-74de-4526-9528-be5f3d925108" width=500 height=500>
+<img src="https://private-user-images.githubusercontent.com/118708024/321847651-2cffd870-e272-4b7e-b1db-befcf41f86cb.jpg)" width=500 height=500
 
 ## WITHOUT OBJECT
 
